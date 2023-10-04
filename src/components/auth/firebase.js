@@ -17,13 +17,13 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBUkA-N0oudrE8ydT4uiKKjXyEy_KaJQ0E",
-    authDomain: "quora-clone-2a957.firebaseapp.com",
-    projectId: "quora-clone-2a957",
-    storageBucket: "quora-clone-2a957.appspot.com",
-    messagingSenderId: "396071384228",
-    appId: "1:396071384228:web:eda1de8c8ccee344a86231",
-    measurementId: "G-LP6Y5DS9FF"
+    apiKey: "AIzaSyB4m18R63FhTGkUwgyTF_3z-n6xV9XmR3c",
+    authDomain: "quoraclone-400611.firebaseapp.com",
+    projectId: "quoraclone-400611",
+    storageBucket: "quoraclone-400611.appspot.com",
+    messagingSenderId: "988173111554",
+    appId: "1:988173111554:web:3ee1c35f66e168cb0c721b",
+    measurementId: "G-XK8X05WQ5P"
 };
 
 
